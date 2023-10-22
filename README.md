@@ -1,2 +1,2 @@
 # Ye Yint Lwin
-Electrical Technician & Backend Developer
+Electrical Technician & Back-end Developer
